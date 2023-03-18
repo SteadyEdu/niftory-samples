@@ -25,7 +25,7 @@ export const Navbar = () => {
     <NavbarBase
       leftComponent={
         <>
-          <Heading color="white">NFT Storefront Demo</Heading>
+          <Heading color="white">Hybrid Breaks</Heading>
           <Center pt="1px">
             <Tag size="sm" variant="outline">
               BETA
